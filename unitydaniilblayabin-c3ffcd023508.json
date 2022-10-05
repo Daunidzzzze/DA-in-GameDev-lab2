@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "unitydaniilblayabin",
+  "private_key_id": "c3ffcd023508794dd9cf7daf4cc848e5c43daea6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQC2rV0c3AwcS+9R\n7PZRzvkWTfVSEANI1CXYug5ZEuBrTjjdxI8D/TSrZ4nqk/cqEz0S7cbqGPaEH24f\nupgv0fGYloIahU1iM8Rbufux+b/6j9Mr36vk3/4TelIqZZKzFvidO5pz9E2WGn1C\nP8aEzzL3/ksMWW791bSTQ5GKwvTjFLEMvQObSlMFfY7lnVSLA6AlPK9HcW8caCr/\nUOPprhnTgjhVMkcNThQquXUCrGEo+KWadD+qL4knXsIIJP55i6YQUwoBemGTJuBe\n/eqYDKB5xPgi+Uylpen++mCWF7ybkmdu6HkLAkVOaAdjYvcYzxjiFjEQKN088y0p\nttbSTw6fAgMBAAECgf9zXF0bhzAeroAePIameGN/XRE5wY2mxafLiwjZ4hHXBzmM\n0ul98L5SKrtDEtiuDs2C0VB3L/coI1u9WG4Yb3x33+me1eUIdFM27zxY0woUMWop\n9WuYHdwAcOlyh10dEQ9E5rRN2vnO0OuelVJzNxCji53ZLqE+VgwISPigUyhS6Kzk\n3j90D1EzTdzww0dSXnokhi70xWy15+RfkOPF/GXMCFtABRNYJrl5mjDo75YcCnAc\nE2LRcTSFyLlUiW8BT7LxUFjLEkpyZqYUe1Abgy6APofyazxmvSniN/GzYqvBo40B\nspMgGsk0N9PK9kzaaZEWqjsFp2fd5Xdh5KSSzYECgYEA4Nc9ImPvmXqUwrIMDuGY\n/ItnDGk7VFQLKJ1wxualWQ1TL02M7pEjK4dvL+Lr/YMa5tbDDpoX0GdxDgzXb/RI\nWADQJ9oiwXeK5asbCnXBj8Gj9tzxv0+ofRVeGgst/O0PaixkgmfKgrlZJEhSneOq\nBDWvS2f5RkN51padEHXQZMECgYEAz/5Fl92pvEwrNFNNXMCr4ZpcPt/d4Yqcc2zD\nMZZ/Pr4c2IyXolVGxmR88XFdbRO37ggGcaB2sfGP4scpgpPrGN/8Wtu6Mo2U901H\nmP+7kG8kHw6vpFFHe8MATx2oPI3Su9d/4DiTN0XgY1o1rW0FzSZ+JPcEKFw6hrGs\neRYda18CgYAxUEQCVPTqLq6N/UsTwHszeMfDOxleJ4jDAbUIivHdFEUYbOPqNz8F\nfxDt6dFkquqtkpD5lOaAOQ/cywg9b9CmLJd7Bib1U+jM8rhdlPI9O3Vg4ZjMIwaL\nWLJo9+bAQKZO3Sm2SFlsToa0pIAqTRKvFa861LUhqg8A98u/Hnf0gQKBgEugI4O9\neBrcAxWKeGWSNKzZ6FKAKXf5Yztgv3RHSUrx6yEdtYCzywEVxowvcQ3ZDpaA2n70\nHlRDBdMqIUC2MdQglOwgWopJCnIE6lSKH5O7pYGZYGm5l+k7FOCvYt1pn8bm6zsG\ntxhw0s6tHTlKm8JlDZa5LgzSxAD3l0OLs/S3AoGBAMH1Gg6tkwIPG3jBfsbkUOsf\n5dnbYDjwLPLGJH6DLNYW+k4aGeT1MH9qCcO9BhM/4GBiK7SwytHp2XB9447FJHeb\nAZq9P4yRlGYpF+jIfyNswc9vJWkUn3kcrsPCsx90OSN+s1IYTd4Qmy9skRcCNpxo\nXtVxsB6RVjCYFrJjsHCn\n-----END PRIVATE KEY-----\n",
+  "client_email": "unityservicedaniilbalyabin@unitydaniilblayabin.iam.gserviceaccount.com",
+  "client_id": "109567228987565352712",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/unityservicedaniilbalyabin%40unitydaniilblayabin.iam.gserviceaccount.com"
+}
